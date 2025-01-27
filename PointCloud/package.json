@@ -1,7 +1,7 @@
 {
   "name": "com.zorrendor.pointcloud",
   "version": "1.0.0",
-  "displayName": "Point cloud utilities",
+  "displayName": "Zorrendor PointCloud",
   "description": "This is point cloud utilities.",
   "unity": "2021.3",
   "author": {
