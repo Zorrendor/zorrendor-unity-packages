@@ -1,0 +1,12 @@
+{
+  "name": "com.zorrendor.pointcloud",
+  "version": "1.0.0",
+  "displayName": "Point cloud utilities",
+  "description": "This is point cloud utilities.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Oleksii Fedosov",
+    "email": "zorrendor@gmail.com"
+//    "url": "https://mycompany.com"
+  }
+}

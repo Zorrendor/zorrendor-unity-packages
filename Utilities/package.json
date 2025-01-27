@@ -1,0 +1,12 @@
+{
+  "name": "com.zorrendor.utilities",
+  "version": "1.0.0",
+  "displayName": "Zorrendor utilities",
+  "description": "This is zorrendor utilities.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Oleksii Fedosov",
+    "email": "zorrendor@gmail.com"
+//    "url": "https://mycompany.com"
+  }
+}
