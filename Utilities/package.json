@@ -4,6 +4,9 @@
   "displayName": "Zorrendor Utilities",
   "description": "This is zorrendor utilities.",
   "unity": "2021.3",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": ">=15.0.0"
+  },
   "author": {
     "name": "Oleksii Fedosov",
     "email": "zorrendor@gmail.com",
