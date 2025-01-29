@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor;
 using System.Reflection;
 using System;
 using System.Linq;
 using UnityEngine.UIElements;
+
+#if UNITY_EDITOR
+using UnityEditor;
 using UnityEditor.UIElements;
 
 /// <summary>
@@ -58,3 +60,4 @@ public class ObjectEditor : Editor
         }
     }
 }
+#endif
