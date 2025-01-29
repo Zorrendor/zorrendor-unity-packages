@@ -1,9 +1,12 @@
 using System.IO;
 using UnityEngine;
+using UnityEngine.UIElements;
+#if UNITY_EDITOR
 using UnityEditor;
 using UnityEditor.UIElements;
-using UnityEngine.UIElements;
+#endif
 
+#if UNITY_EDITOR
 public class BakerEditorWindow : EditorWindow
 {
     private VisualElement root;
@@ -88,3 +91,4 @@ public class BakerEditorWindow : EditorWindow
         Debug.Log("Material baked to texture and saved at: " + SavePath + "BakedTexture.png");
     }
 }
+#endif
